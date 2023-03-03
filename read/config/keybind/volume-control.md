@@ -20,14 +20,14 @@ grand_parent: 設定
 
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L259)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L275)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
 | `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L357-L368)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L373-L379)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- |
