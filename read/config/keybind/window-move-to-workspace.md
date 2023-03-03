@@ -10,7 +10,7 @@ grand_parent: 設定
 # 視窗移到指定工作空間
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L335-L344)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L350-L359)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | -------------------------------------------- | --------------------------------------------------- |

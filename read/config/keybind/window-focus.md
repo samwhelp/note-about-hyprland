@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 前後聚焦切換
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L310-L311)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L319-L320)
 
 
 | 按鍵組合  | 功能                   | 執行指令               |

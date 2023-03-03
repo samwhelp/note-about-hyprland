@@ -23,13 +23,20 @@ grand_parent: 設定
 
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L194-L195)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L329-L330)
 
 
 | 按鍵組合  | 功能                 | 執行指令                   |
 | --------- | -------------------- | -------------------------- |
-| `Alt + a` | 切換到上一個「工作空間」 | `workspace` `e-1` (hyprland 內建) |
-| `Alt + s` | 切換到下一個「工作空間」| `workspace` `e+1` (hyprland 內建) |
+| `Alt + a` | 切換到上一個「工作空間」 | `workspace` `-1` (hyprland 內建) |
+| `Alt + s` | 切換到下一個「工作空間」| `workspace` `+1` (hyprland 內建) |
+
+
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L331)
+
+| 按鍵組合  | 功能                 | 執行指令                   |
+| --------- | -------------------- | -------------------------- |
+| `Alt + z` | 切換到最近一個「工作空間」| `workspace` `previous` (hyprland 內建) |
 
 
 > 也可以在「桌面」，使用「滑鼠中鍵」，上下滾動，切換「工作空間」。
