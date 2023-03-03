@@ -31,9 +31,7 @@ grand_parent: 設定
 | `Alt + a` | 切換到上一個「工作空間」 | `workspace` `-1` (hyprland 內建) |
 | `Alt + s` | 切換到下一個「工作空間」| `workspace` `+1` (hyprland 內建) |
 
-
-| 按鍵組合  | 功能                 | 執行指令                   |
-| `Alt + z` | 切換到最近一個「工作空間」| `workspace` `previous` (hyprland 內建) |
+> 也可以在「桌面」，使用「滑鼠中鍵」，上下滾動，切換「工作空間」。
 
 
 * [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L327)
@@ -41,9 +39,6 @@ grand_parent: 設定
 | 按鍵組合  | 功能                 | 執行指令                   |
 | --------- | -------------------- | -------------------------- |
 | `Alt + z` | 切換到最近一個「工作空間」| `workspace` `previous` (hyprland 內建) |
-
-
-> 也可以在「桌面」，使用「滑鼠中鍵」，上下滾動，切換「工作空間」。
 
 
 ## 指定切換
