@@ -17,8 +17,8 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
-| `XF86_MonBrightnessDown (XF86MonBrightnessDown)` | 減少螢幕亮度         | `brightnessctl set 5%-` |
-| `XF86_MonBrightnessUp (XF86MonBrightnessUp)` | 增加螢幕亮度         | `brightnessctl set +5%` |
+| `XF86MonBrightnessDown` | 減少螢幕亮度         | `brightnessctl set 5%-` |
+| `XF86MonBrightnessUp` | 增加螢幕亮度         | `brightnessctl set +5%` |
 
 
 * [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L383-L387)

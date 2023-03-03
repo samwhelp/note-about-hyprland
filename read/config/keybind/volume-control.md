@@ -10,13 +10,13 @@ grand_parent: 設定
 # 音量控制
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L357-L359)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L368-L370)
 
 | 按鍵組合               | 功能           | 執行指令                                    |
 | ---------------------- | -------------- | ------------------------------------------- |
-| `XF86_AudioMute (XF86AudioMute)`        | 音量切換成靜音 | `amixer -q -D pulse sset Master toggle`     |
-| `XF86_AudioLowerVolume (XF86AudioLowerVolume)` | 減小音量       | `amixer -q -D pulse sset Master 5%- unmute` |
-| `XF86_AudioRaiseVolume (XF86AudioRaiseVolume)` | 增加音量       | `amixer -q -D pulse sset Master 5%+ unmute` |
+| `XF86AudioMute`        | 音量切換成靜音 | `amixer -q -D pulse sset Master toggle`     |
+| `XF86AudioLowerVolume` | 減小音量       | `amixer -q -D pulse sset Master 5%- unmute` |
+| `XF86AudioRaiseVolume` | 增加音量       | `amixer -q -D pulse sset Master 5%+ unmute` |
 
 
 
