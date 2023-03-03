@@ -17,7 +17,7 @@ grand_parent: 設定
 
 | 按鍵組合  | 功能                   | 執行指令               |
 | ----------| ---------------------- | ---------------------- |
-| `Win + a` | 聚焦切換到前面一個視窗 | `cycleprev` (hyprland 內建) |
+| `Win + a` | 聚焦切換到前面一個視窗 | `cyclenext` `prev` (hyprland 內建) |
 | `Win + s` | 聚焦切換到後面一個視窗 | `cyclenext` (hyprland 內建)  |
 
 
