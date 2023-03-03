@@ -23,7 +23,7 @@ grand_parent: 設定
 
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L329-L330)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L325-L326)
 
 
 | 按鍵組合  | 功能                 | 執行指令                   |
@@ -32,7 +32,7 @@ grand_parent: 設定
 | `Alt + s` | 切換到下一個「工作空間」| `workspace` `+1` (hyprland 內建) |
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L331)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L327)
 
 | 按鍵組合  | 功能                 | 執行指令                   |
 | --------- | -------------------- | -------------------------- |

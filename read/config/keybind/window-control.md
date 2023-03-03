@@ -16,7 +16,7 @@ grand_parent: 設定
 
 ## 關閉視窗
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L285)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L290)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
@@ -28,7 +28,7 @@ grand_parent: 設定
 
 ## 全螢幕
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L286)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L291)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -39,7 +39,7 @@ grand_parent: 設定
 
 ## 浮動切換
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L287)
+* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L292)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
