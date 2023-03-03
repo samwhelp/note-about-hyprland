@@ -7,7 +7,7 @@ grand_parent: 設定
 ---
 
 
-# 畫面布局 (Layout Master)
+# 畫面布局 (Layout Dwindle)
 
 
 ## 布局切換
