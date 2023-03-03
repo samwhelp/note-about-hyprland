@@ -12,4 +12,5 @@ grand_parent: 設定
 
 | Layout |
 | --- |
+| [畫面布局 (Layout Dwindle)](https://samwhelp.github.io/note-about-hyprland/read/config/keybind/layout/dwindle/layout-control.html) |
 | [畫面布局 (Layout Master)](https://samwhelp.github.io/note-about-hyprland/read/config/keybind/layout/master/layout-control.html) |
