@@ -28,6 +28,7 @@
 
 * [System Modeling](https://samwhelp.github.io/system-modeling/) ([GitHub](https://github.com/samwhelp/system-modeling/))
 * [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
+* [Hyprwm 探索筆記](https://samwhelp.github.io/note-about-hyprwm/) ([GitHub](https://github.com/samwhelp/note-about-hyprwm/))
 * [Labwc 探索筆記](https://samwhelp.github.io/note-about-labwc/) ([GitHub](https://github.com/samwhelp/note-about-labwc/))
 * [Wayfire 探索筆記](https://samwhelp.github.io/note-about-wayfire/) ([GitHub](https://github.com/samwhelp/note-about-wayfire/))
 
