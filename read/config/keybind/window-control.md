@@ -43,4 +43,6 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
-| `Win + v`         | 浮動切換 | `togglefloating` (hyprland 內建) |
+| `Win + Esc`         | 浮動切換 | `togglefloating` (hyprland 內建) |
+
+> 也可以在某個視窗，透過「`Win + <滑鼠中鍵按下>`」來切換浮動狀態。

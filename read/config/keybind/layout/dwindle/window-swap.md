@@ -19,3 +19,12 @@ grand_parent: 設定
 | ----------| ---------------------- | ---------------------- |
 | `Win + Shift + a` | 交換到前面一個視窗 | `swapnext` `prev` (hyprland 內建) |
 | `Win + Shift + s` | 交換到後面一個視窗 | `swapnext` (hyprland 內建)  |
+
+
+| 按鍵組合  | 功能                   | 執行指令               |
+| ----------| ---------------------- | ---------------------- |
+| `Win + grave` | 交換到前面一個視窗 | `swapnext` `prev` (hyprland 內建) |
+| `Win + Tab` | 交換到後面一個視窗 | `swapnext` (hyprland 內建)  |
+
+
+> 關於「grave」指的是「`」，也就是「Tab」上面那個按鍵。

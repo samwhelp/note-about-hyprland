@@ -15,5 +15,5 @@ grand_parent: 設定
 
 | 按鍵組合  | 功能                   | 執行指令               |
 | ----------| ---------------------- | ---------------------- |
-| `Win + o` | toggle split | `togglesplit` (hyprland 內建) |
-| `Win + p` | pseudo | `pseudo` (hyprland 內建)  |
+| `Win + b` | toggle split | `togglesplit` (hyprland 內建) |
+| `Win + v` | pseudo | `pseudo` (hyprland 內建)  |
