@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 設定檔專案
 
-* [layout-dwindle](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/layout-master)
+* [layout-master](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/layout-master)
 
 
 ## 設定檔路徑

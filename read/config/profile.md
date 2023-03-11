@@ -11,7 +11,7 @@ parent: 設定
 
 ## Profile
 
-| Profile |
-| --- |
-| [layout-dwindle](profile/layout-dwindle) |
-| [layout-master](profile/layout-master) |
+| Profile | Config File |
+| --- | --- |
+| [layout-dwindle](profile/layout-dwindle) | [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/layout-dwindle/hyprland.conf) |
+| [layout-master](profile/layout-master) | [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/layout-master/hyprland.conf) |
