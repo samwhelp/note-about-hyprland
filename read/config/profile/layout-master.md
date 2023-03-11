@@ -34,3 +34,8 @@ grand_parent: 設定
 | [畫面布局](https://samwhelp.github.io/note-about-hyprland/read/config/keybind/layout/master/layout-control.html) |
 | [視窗聚焦切換](https://samwhelp.github.io/note-about-hyprland/read/config/keybind/layout/master/window-focus.html) |
 | [視窗交換](https://samwhelp.github.io/note-about-hyprland/read/config/keybind/layout/master/window-swap.html) |
+
+
+##  Hyprland Wiki
+
+* [Master Layout](https://wiki.hyprland.org/Configuring/Master-Layout/)
