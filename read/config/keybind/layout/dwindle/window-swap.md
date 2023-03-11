@@ -1,5 +1,5 @@
 ---
-title: 視窗交換  (Layout Dwindle)
+title: 視窗交換 (Layout Dwindle)
 nav_order: 5027
 has_children: false
 parent: 按鍵綁定
@@ -7,7 +7,7 @@ grand_parent: 設定
 ---
 
 
-# 視窗交換
+# 視窗交換 (Layout Dwindle)
 
 
 ## 前後交換

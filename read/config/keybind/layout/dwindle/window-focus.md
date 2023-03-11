@@ -7,7 +7,7 @@ grand_parent: 設定
 ---
 
 
-# 視窗聚焦切換
+# 視窗聚焦切換 (Layout Dwindle)
 
 
 ## 前後聚焦切換

@@ -7,7 +7,7 @@ grand_parent: 設定
 ---
 
 
-# 視窗交換
+# 視窗交換 (Layout Master)
 
 
 ## 前後交換
