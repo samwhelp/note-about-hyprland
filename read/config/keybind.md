@@ -22,6 +22,7 @@ parent: 設定
 * [音量控制](#音量控制)
 * [螢幕亮度控制](#螢幕亮度控制)
 * [統整對照](#統整對照)
+* [相關文件](#相關文件)
 
 
 ## 設定檔
@@ -105,3 +106,13 @@ parent: 設定
 
 * [通用鍵盤組合鍵操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind-common)
 * [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
+
+
+## 相關文件
+
+### Hyprland Wiki
+
+* [Binds](https://wiki.hyprland.org/Configuring/Binds/)
+* [Dispatchers](https://wiki.hyprland.org/Configuring/Dispatchers/)
+* Dwindle Layout / [Bind Dispatchers](https://wiki.hyprland.org/Configuring/Dwindle-Layout/#bind-dispatchers)
+* Master Layout / [Dispatchers](https://wiki.hyprland.org/Configuring/Master-Layout/#dispatchers)

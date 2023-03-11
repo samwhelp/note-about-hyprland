@@ -15,3 +15,10 @@ parent: 設定
 | --- | --- |
 | [layout-dwindle](profile/layout-dwindle) | [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/layout-dwindle/hyprland.conf) |
 | [layout-master](profile/layout-master) | [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/layout-master/hyprland.conf) |
+
+
+## Hyprland Wiki
+
+* [Configuring Hyprland](https://wiki.hyprland.org/Configuring/Configuring-Hyprland/)
+* [Dwindle Layout](https://wiki.hyprland.org/Configuring/Dwindle-Layout/)
+* [Master Layout](https://wiki.hyprland.org/Configuring/Master-Layout/)
