@@ -27,7 +27,7 @@ parent: 設定
 
 ## 設定檔
 
-這篇的根據，是採用「[我自訂的設定](https://github.com/samwhelp/note-about-hyprland/tree/gh-pages/_demo/config/hyprland-config/main)」，
+這篇「按鍵綁定」的根據，是採用「[我自訂的設定](https://github.com/samwhelp/note-about-hyprland/tree/gh-pages/_demo/config/hyprland-config/main)」，
 
 請參考「我的設定檔: [~/.config/hyprland/rc.xml](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf)」。
 
