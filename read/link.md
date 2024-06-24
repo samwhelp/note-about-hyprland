@@ -8,11 +8,15 @@ has_children: true
 # 連結
 
 
+
+
 ## Hyprland
 
 * [Hyprland](https://hyprland.org/)
 * [Hyprland Wiki](https://wiki.hyprland.org/)
 * GitHub / [hyprland](https://github.com/hyprwm/Hyprland)
+
+
 
 
 ## Just the Docs
