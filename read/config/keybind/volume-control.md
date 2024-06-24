@@ -10,7 +10,7 @@ grand_parent: 設定
 # 音量控制
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L368-L370)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L368-L370)
 
 | 按鍵組合               | 功能           | 執行指令                                    |
 | ---------------------- | -------------- | ------------------------------------------- |
@@ -20,14 +20,14 @@ grand_parent: 設定
 
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L275)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L275)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
 | `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L373-L379)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L373-L379)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- |

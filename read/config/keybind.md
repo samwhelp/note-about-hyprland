@@ -27,9 +27,9 @@ parent: 設定
 
 ## 設定檔
 
-這篇「按鍵綁定」的根據，是採用「[我自訂的設定](https://github.com/samwhelp/note-about-hyprland/tree/gh-pages/_demo/config/hyprland-config/main)」，
+這篇「按鍵綁定」的根據，是採用「[我自訂的設定](https://github.com/samwhelp/hyprland-adjustment/tree/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr)」，
 
-請參考「我的設定檔: [~/.config/hyprland/rc.xml](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf)」。
+請參考「我的設定檔: [~/.config/hyprland/hyprland.conf](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf)」。
 
 
 > [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)

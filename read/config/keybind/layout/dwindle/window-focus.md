@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 前後聚焦切換
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L315-L316)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Layout-Dwindle/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L315-L316)
 
 
 | 按鍵組合  | 功能                   | 執行指令               |
@@ -26,7 +26,7 @@ grand_parent: 設定
 
 ## 上下左右聚焦切換
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L296-L299)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Layout-Dwindle/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L296-L299)
 
 | 按鍵組合  | 功能                   | 執行指令               |
 | ----------| ---------------------- | ---------------------- |
@@ -36,7 +36,7 @@ grand_parent: 設定
 | `Win + Right` | 聚焦切換到右方的視窗 | `movefocus` `r` (hyprland 內建)  |
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L303-L306)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Layout-Dwindle/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L303-L306)
 
 | 按鍵組合  | 功能                | 執行指令                         |
 | ----------| ----------------- | ------------------------------ |

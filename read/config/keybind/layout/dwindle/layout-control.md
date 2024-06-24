@@ -12,6 +12,8 @@ grand_parent: 設定
 
 ## 布局切換
 
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Layout-Dwindle/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L315-L316)
+
 
 | 按鍵組合  | 功能                   | 執行指令               |
 | ----------| ---------------------- | ---------------------- |

@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 螢幕亮度控制
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L380-L381)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L380-L381)
 
 
 | 按鍵組合          | 功能             | 執行指令                                    |
@@ -21,7 +21,7 @@ grand_parent: 設定
 | `XF86MonBrightnessUp` | 增加螢幕亮度         | `brightnessctl set +5%` |
 
 
-* [設定片段](https://github.com/samwhelp/note-about-hyprland/blob/gh-pages/_demo/config/hyprland-config/main/hyprland.conf#L383-L387)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L383-L387)
 
 
 | 按鍵組合          | 功能             | 執行指令                                    |
