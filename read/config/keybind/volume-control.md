@@ -18,6 +18,8 @@ grand_parent: 設定
 
 ## pamixer 版本
 
+> 按鍵組合
+
 | 按鍵組合               | 功能           | 執行指令                                    |
 | ---------------------- | -------------- | ------------------------------------------- |
 | `XF86_AudioMute (XF86AudioMute)`        | 音量切換成靜音 | `pamixer --toggle-mute`     |
@@ -38,6 +40,8 @@ bind = , XF86AudioRaiseVolume, exec, pamixer -i 10
 
 
 
+> 按鍵組合
+
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
 | `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
@@ -51,6 +55,8 @@ bind = ALT SHIFT, v, exec, mate-volume-control
 
 
 
+
+> 按鍵組合
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- |
@@ -90,6 +96,8 @@ bind = ALT CTRL, period, exec, pamixer -i 5
 
 ## amixer 版本
 
+> 按鍵組合
+
 | 按鍵組合               | 功能           | 執行指令                                    |
 | ---------------------- | -------------- | ------------------------------------------- |
 | `XF86AudioMute`        | 音量切換成靜音 | `amixer -q -D pulse sset Master toggle`     |
@@ -110,6 +118,8 @@ bind = , XF86AudioRaiseVolume, exec, amixer -q -D pulse sset Master 5%+ unmute
 
 
 
+> 按鍵組合
+
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
 | `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
@@ -123,6 +133,8 @@ bind = ALT SHIFT, v, exec, mate-volume-control
 
 
 
+
+> 按鍵組合
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- |
