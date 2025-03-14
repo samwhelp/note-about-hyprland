@@ -53,6 +53,7 @@
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Hyprwm 探索筆記](https://samwhelp.github.io/note-about-hyprwm/) | [GitHub](https://github.com/samwhelp/note-about-hyprwm) |
+| [Garuda Hyprland 探索筆記](https://samwhelp.github.io/note-about-garuda-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-garuda-hyprland) |
 | [Fedora Hyprland 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
 | [Ultramarine Hyprland 探索筆記](https://samwhelp.github.io/note-about-ultramarine-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-hyprland) |
 
