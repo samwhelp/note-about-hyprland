@@ -11,7 +11,10 @@ grand_parent: 設定
 
 * [關閉視窗](#關閉視窗)
 * [全螢幕](#全螢幕)
+* [最大化](#最大化)
 * [浮動切換](#浮動切換)
+
+
 
 
 ## 關閉視窗
@@ -26,15 +29,30 @@ grand_parent: 設定
 > 一般「關閉視窗」的按鍵綁定是在「`Alt + F4`」。
 
 
+
+
 ## 全螢幕
 
-* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L291)
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L375)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
 | `Win + f` | 視窗全螢幕 | `fullscreen` (hyprland 內建) |
 
 > 一般「視窗全螢幕」的按鍵綁定是在「F11」。
+
+
+
+
+## 最大化
+
+* [設定片段](https://github.com/samwhelp/hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L376)
+
+| 按鍵組合  | 功能       | 執行指令                      |
+| --------- | ---------- | ----------------------------- |
+| `Win + w` | 視窗最大化 | `fullscreen, 1` (hyprland 內建) |
+
+
 
 
 ## 浮動切換
