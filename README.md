@@ -68,6 +68,11 @@
 | [Ultramarine Hyprland 探索筆記](https://samwhelp.github.io/note-about-ultramarine-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-hyprland) |
 
 
+| Link | GitHub |
+| ---- | ------ |
+| [Quickshell 探索筆記](https://samwhelp.github.io/note-about-quickshell/) | [GitHub](https://github.com/samwhelp/note-about-quickshell) |
+
+
 
 
 ## samwhelp
