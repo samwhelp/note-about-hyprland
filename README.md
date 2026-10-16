@@ -60,6 +60,21 @@
 
 ## 相關筆記
 
+
+| Link | GitHub |
+| ---- | ------ |
+| [Quickshell 探索筆記](https://samwhelp.github.io/note-about-quickshell/) | [GitHub](https://github.com/samwhelp/note-about-quickshell) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Wayland 探索筆記](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
+| [Niri 探索筆記](https://samwhelp.github.io/note-about-niri/) | [GitHub](https://github.com/samwhelp/note-about-niri) |
+| [Mangowm 探索筆記](https://samwhelp.github.io/note-about-mangowm/) | [GitHub](https://github.com/samwhelp/note-about-mangowm) |
+| [River 探索筆記](https://samwhelp.github.io/note-about-riverwm/) | [GitHub](https://github.com/samwhelp/note-about-riverwm) |
+| [Sway 探索筆記](https://samwhelp.github.io/note-about-sway/) | [GitHub](https://github.com/samwhelp/note-about-sway) |
+
+
 | Link | GitHub |
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
@@ -67,11 +82,6 @@
 | [Garuda Hyprland 探索筆記](https://samwhelp.github.io/note-about-garuda-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-garuda-hyprland) |
 | [Fedora Hyprland 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
 | [Ultramarine Hyprland 探索筆記](https://samwhelp.github.io/note-about-ultramarine-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-hyprland) |
-
-
-| Link | GitHub |
-| ---- | ------ |
-| [Quickshell 探索筆記](https://samwhelp.github.io/note-about-quickshell/) | [GitHub](https://github.com/samwhelp/note-about-quickshell) |
 
 
 
